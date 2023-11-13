@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Your Website</title>
+    <style>
+        .custom-style {
+            color: #FF5733; /* Text color */
+            font-size: 16px; /* Font size */
+            /* Add more style properties as needed */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <h2 class="custom-style">Branded Jeans</h2>
+    <p class="custom-style">I love Branded Jeans</p>
+ <img src="jean.jpg" alt="They are super stretchy"/>
+Branded Jeans
+I love Branded Jeans
+They are super stretchy
+</body>
+</html>
